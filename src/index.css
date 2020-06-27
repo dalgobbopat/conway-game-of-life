@@ -86,3 +86,6 @@ p,h1,h2,h3{
 .other-button{
     background:rgb(109, 125, 138);
 } 	
+.copy{
+    margin-left: 40%;
+}
